@@ -754,6 +754,19 @@ h6,
 #msg-box5-2m H3 {
   text-align: center;
 }
+#msg-box3-2u .mbr-section-title,
+#msg-box3-2u p {
+  color: #000;
+}
+#testimonials3-2w .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-2w .mbr-author-name {
+  color: #ccc;
+}
+#testimonials3-2w .card-block P {
+  text-align: left;
+}
 #social-buttons4-2h .mbr-section-title,
 #social-buttons4-2h .btn-social {
   color: #fff;
